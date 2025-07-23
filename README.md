@@ -1,7 +1,5 @@
 # Big Mart Sales Prediction
 
-<img src="https://raw.githubusercontent.com/kaniskanay/sample-assets/main/bigmart_sales_banner.png" width="1000" height="500">
-
 ![Python Version](https://img.shields.io/badge/Python-3-blue) 
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/shreyapatil1199/Big_Mart_Sales_Prediction) 
 ![GitHub Stars](https://img.shields.io/github/stars/shreyapatil1199/Big_Mart_Sales_Prediction)
